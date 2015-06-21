@@ -1,0 +1,133 @@
+#main
+{
+  background-color: black;
+
+}
+.navbar-default
+{
+  opacity: 0.7; 
+}
+
+.navbar-header
+{
+
+    color: white;
+}
+.navbar-brand 
+{    
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.nav.navbar-nav.navbar-right li a
+{
+    color: white;
+
+}
+.nav.navbar-nav.navbar-right
+{
+    margin-right: 418px;
+}
+
+* 
+{ 
+        margin: 0; 
+        padding: 0; 
+}
+body 
+{ 
+        font: 16px Helvetica, 
+        Sans-Serif; 
+        line-height: 24px; 
+        background: url(images/noise.jpg); 
+}
+.clear 
+{ 
+        clear: both; 
+}
+#page-wrap 
+{       width: 800px; 
+        margin: 40px auto 60px; 
+        margin-top: 122px;
+}
+#pic 
+{       float: left; 
+        margin: -3px;
+        margin-left: -100px; 
+}
+h1 
+{       margin: 0 0 16px 0; 
+        padding: 0 0 16px 0; 
+        font-size: 42px; 
+        font-weight: bold; 
+        letter-spacing: -2px; 
+        border-bottom: 5px solid rgba(49, 49, 49, 0.66); 
+}
+h2 { 
+        font-size: 20px; 
+        margin: 0 0 6px 0; 
+        position: relative; 
+}
+h2 span 
+{ 
+        position: absolute; 
+        bottom: 0; right: 0; 
+        font-style: italic; 
+        font-family: Georgia, 
+        Serif; font-size: 16px; 
+        color: #999; 
+        font-weight: normal; 
+}
+p 
+{       margin: 0 0 16px 0; 
+
+}
+
+a 
+{       color: #999; 
+        text-decoration: none; 
+        border-bottom: 1px dotted #999; 
+}
+a:hover 
+{       border-bottom-style: solid; 
+        color: black; 
+}
+ul 
+{ margin: 0 0 32px 17px; 
+}
+#objective 
+{ 
+        width: 500px; 
+        float: left; 
+}
+#objective p 
+{ 
+        font-family: Georgia, Serif;
+         font-style: italic; 
+         color: #7B0F20;
+         margin-left: 14px;
+ }
+dt 
+{ 
+        font-style: italic; 
+        font-weight: bold; 
+        font-size: 18px; text-align: right; 
+        padding: 0 26px 0 0;
+        width: 150px; 
+        float: left; 
+        height: 100px; 
+        border-right: 1px solid #999;  
+        color:#7B0F20;
+}
+dd 
+{ 
+        width: 600px; 
+        float: right; 
+}
+dd.clear 
+{ 
+        float: none; 
+        margin: 0; 
+        height: 15px; 
+}
